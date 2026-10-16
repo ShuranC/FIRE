@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets
+data/
+msrvtt_data/
+msrvtt_data.zip
+
+# Large predictions
+predictions.zip
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
